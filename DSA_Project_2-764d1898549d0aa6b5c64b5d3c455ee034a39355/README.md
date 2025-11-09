@@ -3,7 +3,7 @@
 
 
 <h3> How to run the code:</h3>
-In order to run the code you need VSCode, and G++ Compiler
+In order to run the code you need VSCode, and G++ Compiler.
 
 Open up the repository on github desktop
 
