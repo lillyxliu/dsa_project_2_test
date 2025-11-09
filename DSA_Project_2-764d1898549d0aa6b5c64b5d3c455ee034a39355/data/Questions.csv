@@ -1,0 +1,21 @@
+Question,Category Tag,Bool Flipped,“Yes” indicates,“No” indicates
+You enjoy meeting new people and making friends,Social,F,Extraversion,Introversion
+You are curious about how things work beneath the surface,Processing,F,Intuition,Sensing
+You usually make decisions based on logic rather than emotion,Decision,F,Thinking,Feeling
+You tend to go with the flow rather than plan every detail,Tactics,F,Perceiving,Judging
+You prefer quiet time alone to recharge after social events,Social,T,Introversion,Extraversion
+You like learning through real-world examples rather than theories,Processing,T,Intuition,Sensing
+You often prioritize people’s feelings over objective facts,Decision,T,Feeling,Thinking
+You like to plan ahead and stick to schedules,Tactics,T,Judging,Perceiving
+You find it easy to start conversations with strangers,Social,F,Extraversion,Introversion
+You often imagine creative possibilities for the future,Processing,F,Intuition,Sensing
+You prefer to trust proven methods over experimenting with new ones,Processing,T,Intuition,Sensing
+You rely more on your heart than your head when deciding,Decision,T,Feeling,Thinking
+You’re comfortable taking charge in group situations,Social,F,Extraversion,Introversion
+You enjoy spontaneous adventures,Tactics,F,Perceiving,Judging
+You feel stressed if your plans are suddenly changed,Tactics,T,Judging,Perceiving
+You are easily affected by your emotions,Decision,T,Feeling,Thinking
+You focus on what’s possible rather than what’s currently real,Processing,F,Intuition,Sensing
+You prefer a small close group of friends over large gatherings,Social,T,Introversion,Extraversion
+You like to analyze details carefully before forming conclusions,Processing,F,Sensing,Intuition
+You like to finish tasks early rather than at the last minute,Tactics,T,Judging,Perceiving
